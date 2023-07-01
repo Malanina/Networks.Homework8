@@ -15,3 +15,4 @@ task8/HTTP__HTTPS.jpg
 task8/Router_3_NAT.jpg
 
 Предоставить скриншот таблицы маршрутизации с Router0.
+task8/Router0_route.jpg
